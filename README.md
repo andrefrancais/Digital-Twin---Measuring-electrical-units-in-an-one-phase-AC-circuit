@@ -1,0 +1,2 @@
+# Digital-Twin---Measuring-electrical-units-in-an-one-phase-AC-circuit
+The base is a real lab work which is transposed in Simulink and Matlab. With the help of simulink we can measure the important parameters. We modeled also some of the imperfection of the resistors (added a small inductor in series) and the inductors (added a resistor in series). The phasor diagram and the excel data are exported into a folder.
